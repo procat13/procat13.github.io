@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Passion+One');
+body 
+{
+background: white;  
+font-family: 'Passion One', cursive;
+color: red;
+}
+  
+  #top
+{
+    background: red;
+    width: 800px;
+    color: white;
+} 
